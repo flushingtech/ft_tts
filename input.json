@@ -1,0 +1,37 @@
+[
+    {
+        "text": "At today's hackathon, we created an agent-based pipeline for transcribing speech, summarizing the transcribed speech, and generating a voice output of said summary",
+        "voice": "some-voice-1",
+        "cadence": null,
+        "emotion": null,
+        "pause_in_seconds": 2
+    },
+    {
+        "text": "Our first team used Python and a few libraries to transcribe speech",
+        "voice": "some-voice-1",
+        "cadence": null,
+        "emotion": null,
+        "pause_in_seconds": 2
+    },
+    {
+        "text": "Our second team leveraged a model loaded into Ollama to summarize the transcribed speech",
+        "voice": "some-voice-1",
+        "cadence": null,
+        "emotion": null,
+        "pause_in_seconds": 2
+    },
+    {
+        "text": "Our last team used a library from Huggingface called Parler TTS to generate speech from a summarized JSON input file",
+        "voice": "some-voice-1",
+        "cadence": null,
+        "emotion": null,
+        "pause_in_seconds": 2
+    },
+    {
+        "text": "To build projects like these, join us at the next bi-weekly Hackathon at the Tech Incubator at Queens College!",
+        "voice": "some-voice-1",
+        "cadence": null,
+        "emotion": null,
+        "pause_in_seconds": 2
+    }
+]
